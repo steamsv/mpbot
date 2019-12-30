@@ -1,0 +1,9 @@
+{
+    "host" : "115.159.148.225",
+    "port" : 3306,
+    "username": "root",
+    "password": "",
+    "db": "test",
+    "table":"process",
+    "charset":"utf8mb4"
+}
